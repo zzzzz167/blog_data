@@ -1,0 +1,49 @@
+[
+    {
+        "content": "Hello, World!", 
+        "author": "Brian Kernighan", 
+        "from": "The C Programming Language", 
+        "tags": [
+            "computer"
+        ]
+    }, 
+    {
+        "content": "人类的悲欢并不相通，我只觉得他们吵闹。", 
+        "author": "鲁迅", 
+        "from": "小杂感"
+    },
+    {
+        "content": "果然，好女人要有的是，烟、楼顶……还有轻飘飘的衣服呀……",
+        "author": "水上 由岐",
+        "from": "素晴らしき日々〜不連続存在",
+        "tags":[
+            "galgame"
+        ]
+    },
+    {
+        "content": "我们的分别并不会太久，纵然外形改变，声音不同，但我们总会相见……",
+        "author": "向日（むこう） アオイ",
+        "from": "君と彼女と彼女の恋。",
+        "tags": [
+            "galgame"
+        ]
+    },
+    {
+        "content": "私、気になります！ 我很好奇！",
+        "author": "千反田 える",
+        "from":"冰菓",
+        "tags":[
+            "Two dimensions"
+        ]
+    },
+    {
+        "content": "我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。",
+        "author":"比克泰德",
+        "from":"爱比克泰德语录"
+    },
+    {
+        "content": "Where Do We Come From？ What Are We？ Where Are We Going？",
+        "author": "保罗·高更",
+        "from":"我们从何处来？我们是谁？我们向何处去？"
+    }
+]

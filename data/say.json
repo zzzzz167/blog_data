@@ -1,22 +1,22 @@
 [
     {
-        "content": "Hello, World!", 
-        "author": "Brian Kernighan", 
-        "from": "The C Programming Language", 
+        "content": "Hello, World!",
+        "author": "Brian Kernighan",
+        "from": "The C Programming Language",
         "tags": [
             "computer"
         ]
-    }, 
+    },
     {
-        "content": "人类的悲欢并不相通，我只觉得他们吵闹。", 
-        "author": "鲁迅", 
+        "content": "人类的悲欢并不相通，我只觉得他们吵闹。",
+        "author": "鲁迅",
         "from": "小杂感"
     },
     {
         "content": "果然，好女人要有的是，烟、楼顶……还有轻飘飘的衣服呀……",
         "author": "水上 由岐",
         "from": "素晴らしき日々〜不連続存在",
-        "tags":[
+        "tags": [
             "galgame"
         ]
     },
@@ -31,20 +31,20 @@
     {
         "content": "私、気になります！ 我很好奇！",
         "author": "千反田 える",
-        "from":"冰菓",
-        "tags":[
+        "from": "冰菓",
+        "tags": [
             "Two dimensions"
         ]
     },
     {
         "content": "我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。",
-        "author":"比克泰德",
-        "from":"爱比克泰德语录"
+        "author": "比克泰德",
+        "from": "爱比克泰德语录"
     },
     {
         "content": "Where Do We Come From？ What Are We？ Where Are We Going？",
         "author": "保罗·高更",
-        "from":"我们从何处来？我们是谁？我们向何处去？"
+        "from": "我们从何处来？我们是谁？我们向何处去？"
     },
     {
         "content": "就算是我，也可以战斗，就算是我，也可以成为你的力量！",
@@ -59,7 +59,7 @@
     {
         "content": "我相信这座城市，我相信这里有着让我穷尽一生去守护的价值。……如果不相信自己所治理的学园都市，一开始我就不应该站到这个最高的位置。",
         "author": "一方通行",
-        "from":"魔法禁书目录"
+        "from": "魔法禁书目录"
     },
     {
         "content": "重要的，珍惜的，一直在身边，一旦成为理所当然，就难以发现。",
@@ -72,8 +72,8 @@
     },
     {
         "content": "总不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
-        "author":"とおの） 貴樹（たかき",
-        "from":"秒速五厘米"
+        "author": "とおの） 貴樹（たかき",
+        "from": "秒速五厘米"
     },
     {
         "content": "身体上的爱恋是精神上爱恋的延续",
